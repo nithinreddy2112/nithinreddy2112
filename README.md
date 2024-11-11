@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithinreddy2112 Currently pursuing MCA 2nd year and working on techonoligies like Pyuthon , SQL , PowerBi, and HTML,CSS and J.S
+- 👋 Hi, I’m @nithinreddy2112 Currently pursuing MCA 2nd year and working on techonoligies like Python , SQL , PowerBi, and HTML,CSS and J.S
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning front end 
 - 💞️ I’m looking to collaborate on SQL & Power Bi
